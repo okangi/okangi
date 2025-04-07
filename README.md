@@ -1,4 +1,5 @@
-I'm @okangi, a passionate developer with a focus on full-stack development. 
+I'm @okangi, 
+a passionate developer with a focus on full-stack development. 
 I'm currently sharpening my skills in building scalable web applications, 
 designing RESTful APIs, and exploring modern front-end frameworks like React and Next.js. 
 I'm also diving into database management and DevOps practices 
