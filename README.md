@@ -10,9 +10,9 @@ Open-source projects; Freelance web development; Innovative startups; Community-
 How to Reach Me:
 Here are the best ways to reach out to me:
 
-LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0wrMl%2BKvQtGh1vEhcOM2mw%3D%3D
+LinkedIn: https://www.linkedin.com/in/cyprian-%20makori
 
-GitHub: https://github.com/okangi/okangi/
+GitHub: https://github.com/Okangi
 Explore my projects and contributions to open-source.
 
 Email: cyprianonkangi@gmail.com
