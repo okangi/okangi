@@ -1,24 +1,76 @@
-I'm @okangi, 
-a passionate developer with a focus on full-stack development. 
-I'm currently sharpening my skills in building scalable web applications, 
-designing RESTful APIs, and exploring modern front-end frameworks like React and Next.js. 
-I'm also diving into database management and DevOps practices 
-to ensure seamless deployment and maintenance of applications.
-I’m looking to collaborate on:
-Open-source projects; Freelance web development; Innovative startups; Community-driven initiatives
+# Hi, I'm Cyprian 
 
-How to Reach Me:
-Here are the best ways to reach out to me:
+## Full Stack Developer (HealthTech Focus)
 
-LinkedIn: https://www.linkedin.com/in/cyprian-%20makori
+I build scalable, production-ready SaaS applications using React, Node.js, and PostgreSQL — with a strong focus on solving real-world healthcare problems.
 
-GitHub: https://github.com/Okangi
-Explore my projects and contributions to open-source.
+I combine a background in optometry with software engineering to create practical, user-centered digital solutions.
 
-Email: cyprianonkangi@gmail.com
-Send me a message directly for collaborations or inquiries.
+---
 
-<!---
-okangi/okangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Featured Projects
+
+### Eye Clinic Management System
+🔗 https://optometry-hub.org/  
+💻 https://github.com/okangi/optometry-management-system  
+
+- Built a full-stack SaaS platform used by **3 clinics**
+- Manages patient records, consultations, and reporting
+- Implemented secure authentication and role-based access
+- Designed for real-world clinical workflows
+
+**Tech:** React, Node.js, PostgreSQL, Docker, AWS  
+
+---
+
+### Business Strategy Lab
+🔗 https://consultworkmate.com/  
+💻 https://github.com/okangi/Workmate-system  
+
+- Developed a platform for business consultancy services
+- Built scalable backend APIs and structured workflows
+
+**Tech:** React, Node.js  
+
+---
+
+### Portfolio Website
+🔗 https://portfolio-topaz-iota-tzfcyzedr1.vercel.app/  
+💻 https://github.com/okangi/Portfolio  
+
+- Personal portfolio showcasing projects and skills
+- Optimized for performance and responsiveness
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express  
+**Database:** PostgreSQL  
+**DevOps:** Docker, AWS  
+**Tools:** Git, REST APIs  
+
+---
+
+## What I'm Focused On
+
+- Building scalable SaaS products  
+- System design and backend architecture  
+- Applying technology in healthcare (HealthTech)  
+
+---
+
+## Open to Opportunities
+
+- Remote Full Stack Developer roles  
+- Freelance & contract work  
+- HealthTech and startup collaborations  
+
+---
+
+##  Contact
+
+📧 Email: makoricyprian@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/cyprian-makori-83553b1  
+💻 GitHub: https://github.com/okangi  
